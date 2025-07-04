@@ -1,5 +1,3 @@
-Here's a possible README update:
-
 # AI Prompt Hub
 
 AI Prompt Hub is a full-stack web application built with Next.js, allowing users to create, share, and discover AI prompts. The platform enables users to generate high-quality prompts for various AI models, fostering creativity and collaboration within the community.
