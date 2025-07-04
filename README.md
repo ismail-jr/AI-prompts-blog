@@ -1,18 +1,16 @@
-# Guido
+Here's a possible README update:
 
-This project is an AI-powered career guidance platform built using Next.js, Firebase, and the OpenAI API via Open Router. It helps students find the right career path, prepare for interviews, and solve coding problems, including debugging.
+# AI Prompt Hub
 
-## Project Overview
-The CareerGuide AI Bot is designed to provide students with personalized career guidance and support. With its AI-powered system, students can:
+AI Prompt Hub is a full-stack web application built with Next.js, allowing users to create, share, and discover AI prompts. The platform enables users to generate high-quality prompts for various AI models, fostering creativity and collaboration within the community.
 
-- Explore career paths and receive tailored recommendations
-- Prepare for interviews with practice questions and feedback
-- Solve coding problems and debug their code with the help of AI-driven insights
+## Key Features
+- *Create and share AI prompts*: Users can create and share AI prompts with the community, making it easy to discover new ideas and inspiration.
+- *Copy and customize prompts*: Users can copy and customize existing prompts to fit their specific needs, streamlining the prompt creation process.
+- *Community-driven*: The platform relies on user-generated content, allowing the community to drive innovation and creativity.
 
 ## Tech Stack
 - Next.js: A popular React-based framework for building server-side rendered and statically generated websites and applications.
-- Firebase: A comprehensive platform for building web and mobile applications.
-- OpenAI API: A powerful AI model for generating human-like text and code.
 
 ## Getting Started
 First, run the development server:
@@ -24,9 +22,10 @@ pnpm dev
 # or
 bun dev
 
-Open http://localhost:3000/ with your browser to see the result. You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Open http://localhost:3000/ with your browser to see the result.
 
-This project uses https://nextjs.org/docs/basic-features/font-optimization to automatically optimize and load Inter, a custom Google Font.
+## Contributing
+We welcome contributions to AI Prompt Hub! If you're interested in contributing, please fork the repository and submit a pull request.
 
 ## Learn More
 To learn more about Next.js, take a look at the following resources:
@@ -35,6 +34,3 @@ To learn more about Next.js, take a look at the following resources:
 - https://nextjs.org/learn - an interactive Next.js tutorial.
 
 You can check out https://github.com/vercel/next.js/ - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-The easiest way to deploy your Next.js app is to use the https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme from the creators of Next.js. Check out our https://nextjs.org/docs/deployment for more details.
